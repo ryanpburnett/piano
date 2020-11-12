@@ -1,0 +1,25 @@
+body   {
+    background-color: rgb(164, 164, 252);
+}
+
+.heading  {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+
+.mainText   {
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+
+.box  {
+    max-width: 700px;
+    margin: auto;
+    padding: 50px;
+    background-color: lightblue;
+    border: black 2px solid;
+}
