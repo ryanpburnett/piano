@@ -22,4 +22,6 @@ body   {
     padding: 50px;
     background-color: lightblue;
     border: black 2px solid;
+    border-radius: 5px;
+    box-shadow: 10px 10px 10px rgb(79, 112, 146);
 }
