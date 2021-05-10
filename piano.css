@@ -18,10 +18,39 @@ body   {
 
 .box  {
     max-width: 700px;
-    margin: auto;
+    margin: 10px auto;
     padding: 50px;
     background-color: lightblue;
     border: black 2px solid;
     border-radius: 5px;
     box-shadow: 10px 10px 10px rgb(79, 112, 146);
+}
+
+.box2  {
+    margin: 20px auto;
+    align-content: center;
+    max-width: 710px;
+    background-color: lightblue;
+    border: black 2px solid;
+    box-shadow: 10px 10px 10px rgb(79, 112, 146);
+}
+
+.natural {
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+    background-color: white;
+    color: black;
+    width: 50px;
+    height: 200px;
+}
+
+.sharpFlat {
+    margin: 0px;
+    padding: 0px;
+    font-size: 10px;
+    background-color: black;
+    color: white;
+    width: 50px;
+    height: 200px;
 }
